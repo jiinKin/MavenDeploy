@@ -8,5 +8,7 @@
 </head>
 <body>
 	<h2>maven 통한 CI/CD 배포</h2>
+	
+	<h1>영진이의 젠킨스 수업</h1>
 </body>
 </html>
